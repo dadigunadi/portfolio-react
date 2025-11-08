@@ -15,3 +15,50 @@ section {
   margin-bottom: 50px;
   padding: 0 20px;
 }
+/* Contact Section Styling */
+form {
+  max-width: 450px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  outline: none;
+  transition: 0.2s;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #25D366;
+  box-shadow: 0 0 4px rgba(37, 211, 102, 0.3);
+}
+
+button[type="submit"] {
+  background: #25D366;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 6px;
+  transition: 0.2s;
+}
+
+button[type="submit"]:hover {
+  background: #1da851;
+}
+
+/* Spacing */
+.contact-section {
+  padding: 60px 20px;
+  text-align: center;
+}

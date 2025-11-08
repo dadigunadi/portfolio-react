@@ -23,7 +23,7 @@ function Projects() {
           <p style={{ fontSize: "14px", margin: "10px 0 20px" }}>
             Halaman web responsif yang dibuat dengan HTML & CSS dasar.
           </p>
-          <a style={{ color: "#0077ff" }} target="_blank" href="https://sage-capybara-e791ea.netlify.app/">
+          <a style={{ color: "#0077ff" }} target="_blank" href="https://soft-croissant-6ba1dc.netlify.app/">
             Lihat Online
           </a>
         </div>
@@ -40,7 +40,7 @@ function Projects() {
           <p style={{ fontSize: "14px", margin: "10px 0 20px" }}>
             Aplikasi untuk mengecek cuaca menggunakan API.
           </p>
-          <a style={{ color: "#0077ff" }} target="_blank" href="https://soft-croissant-6ba1dc.netlify.app/">
+          <a style={{ color: "#0077ff" }} target="_blank" href="https://sage-capybara-e791ea.netlify.app/">
             Lihat Online
           </a>
         </div>

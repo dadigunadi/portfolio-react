@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <section style={{ padding: "60px 20px", textAlign: "center" }}>
+    <section className="contact-section">
       <h3>Hubungi Saya</h3>
       <p>Siap untuk bekerja remote atau freelance.</p>
 
